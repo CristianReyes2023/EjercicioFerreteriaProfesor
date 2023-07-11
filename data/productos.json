@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "123",
+            "nombre": "Cemento",
+            "stockMinimo": 40.0,
+            "stockMaximo": 500.0,
+            "Estado": true
+        },
+        {
+            "id": "5646",
+            "nombre": "Arena",
+            "cantidad": 0,
+            "stockMinimo": 50.0,
+            "stockMaximo": 40.0,
+            "valorCompra": 3000.0,
+            "valorVenta": 6000.0,
+            "Estado": true,
+            "estado": false
+        },
+        {
+            "id": "3453",
+            "nombre": "Alambre",
+            "cantidad": 0,
+            "stockMinimo": 40.0,
+            "stockMaximo": 600.0,
+            "valorCompra": 23000.0,
+            "valorVenta": 40000.0,
+            "estado": false
+        }
+    ]
+}
